@@ -55,6 +55,10 @@ function App() {
             Popular Spots We've Featured
           </h2>
           <div className="grid md:grid-cols-3 gap-6">
+            <a
+              href="https://www.instagram.com/lipehow/"
+              target="_blank"
+            >
             <div className="relative rounded-xl overflow-hidden group">
               <img
                 src="https://i.ibb.co/TqbF0zRc/yoga.jpg"
@@ -68,6 +72,11 @@ function App() {
                 </div>
               </div>
             </div>
+            </a>
+            <a
+              href="https://www.instagram.com/groucoffee/"
+              target="_blank"
+            >
             <div className="relative rounded-xl overflow-hidden group">
               <img
                 src="https://cdn.prod.website-files.com/64de78012b2420ea317f1472/6552433968af20ef6e16f607_1200x630.png"
@@ -81,6 +90,11 @@ function App() {
                 </div>
               </div>
             </div>
+            </a>
+            <a
+              href="https://www.instagram.com/honeyveilco/"
+              target="_blank"
+            >
             <div className="relative rounded-xl overflow-hidden group">
               <img
                 src="https://i.ibb.co/KcqhtQZV/honeyveil.jpg"
@@ -94,6 +108,7 @@ function App() {
                 </div>
               </div>
             </div>
+            </a>
           </div>
         </div>
       </section>
