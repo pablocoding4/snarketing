@@ -31,7 +31,7 @@ function App() {
         </div>
         <div className="relative container mx-auto px-4 py-32 text-center">
           <h2 className="text-4xl md:text-5xl font-bold mb-4">
-            Snark That Sells - Made Free
+            Snark That Sells
           </h2>
           <p className="text-xl md:text-2xl mb-8 opacity-90">
             Helping small businesses connect with UM students through bold,
