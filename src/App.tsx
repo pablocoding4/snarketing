@@ -23,7 +23,7 @@ function App() {
       <section className="relative mb-16 pb-16">
         <div className="absolute inset-0">
           <img
-            src="statics/hero3.png"
+            src="https://i.postimg.cc/gJfhssyg/hero3.png"
             alt="University of Miami"
             className="w-full h-full object-cover"
           />
@@ -99,7 +99,7 @@ function App() {
             >
             <div className="relative rounded-xl overflow-hidden group">
               <img
-                src="statics/honeyveil.png"
+                src="https://i.postimg.cc/XYVCspF6/honeyveil.png"
                 alt="Bookstore"
                 className="w-full h-64 object-cover"
               />
