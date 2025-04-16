@@ -20,28 +20,30 @@ function App() {
       </header>
 
       {/* Hero Section */}
-      <section className="relative">
+      <section className="relative mb-16 pb-16">
         <div className="absolute inset-0">
           <img
-            src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Shalala_Student_Center%2C_University_of_Miami.jpg"
+            src="statics/hero3.png"
             alt="University of Miami"
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-[#303994] bg-opacity-35"></div>
         </div>
-        <div className="relative container mx-auto px-4 py-32 text-center">
-          <h2 className="text-4xl md:text-5xl font-bold mb-4">
+        <div className="relative container mx-auto px-4 pt-32 pb-[28rem] text-center">
+          <h2 className="text-7xl md:text-7xl font-bold mb-6">
             Snark That Sells
           </h2>
-          <p className="text-xl md:text-2xl mb-8 opacity-90">
+          <p className="text-2xl md:text-3xl mb-10 opacity-90">
             Helping small businesses connect with UM students through bold,
             engaging content.
           </p>
+        </div>
+        <div className="relative container mx-auto px-4 text-center">
           <a
             href="https://www.instagram.com/snarketingmiami/reels/"
             target="_blank"
             rel="noopener noreferrer"
-            className="bg-white text-[#303994] px-8 py-3 rounded-full text-lg font-bold hover:bg-opacity-90 transition-all inline-block text-center"
+            className="bg-white text-[#303994] px-10 py-4 rounded-full text-xl font-bold hover:bg-opacity-90 transition-all inline-block text-center"
           >
             See What's Hot
           </a>
@@ -97,7 +99,7 @@ function App() {
             >
             <div className="relative rounded-xl overflow-hidden group">
               <img
-                src="https://i.ibb.co/KcqhtQZV/honeyveil.jpg"
+                src="statics/honeyveil.png"
                 alt="Bookstore"
                 className="w-full h-64 object-cover"
               />
