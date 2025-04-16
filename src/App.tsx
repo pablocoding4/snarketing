@@ -178,15 +178,15 @@ function App() {
         <div className="relative container mx-auto px-4">
           <div className="grid md:grid-cols-3 gap-8 text-center">
             <div className="bg-white bg-opacity-10 p-8 rounded-xl backdrop-blur-sm border-4">
-              <p className="text-4xl font-black mb-2">22,504</p>
+              <p className="text-4xl font-black mb-2">27,504</p>
               <p className="text-lg">Views in 90 days</p>
             </div>
             <div className="bg-white bg-opacity-10 p-8 rounded-xl backdrop-blur-sm border-4">
-              <p className="text-4xl font-black mb-2">11,985</p>
+              <p className="text-4xl font-black mb-2">15,385</p>
               <p className="text-lg">Unique accounts</p>
             </div>
             <div className="bg-white bg-opacity-10 p-8 rounded-xl backdrop-blur-sm border-4">
-              <p className="text-4xl font-black mb-2">801</p>
+              <p className="text-4xl font-black mb-2">1012</p>
               <p className="text-lg">Interactions</p>
             </div>
           </div>
